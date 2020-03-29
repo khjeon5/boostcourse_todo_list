@@ -1,0 +1,75 @@
+#nav {
+	display: flex;
+	height: 100px;
+}
+
+.title {
+	color: green;
+	font-weight: bold;
+	font-size: 20px;
+	width: 200px;
+	height: 100px;
+	margin: 50px;
+	font-size: 20px;
+	width: 200px;
+	height: 100px;
+	margin: 50px;
+	transform: rotate(-35deg)
+}
+
+.addtodo {
+	margin: 50px;
+	margin-left: 940px;
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	background: #03A9F4;
+	color: white;
+	text-align: center;
+	width: 200px;
+}
+
+#section {
+	display: flex;
+	justify-content: center;
+}
+
+.main-title {
+	margin: 10px;
+	width: 400px;
+	height: 80px;
+	line-height: 80px;
+	font-size: 40px;
+	font-weight: bold;
+	color: white;
+	background: #2e657f;
+	width: 400px;
+	padding-left: 20px;
+}
+
+.main-contents {
+	margin: 10px;
+	height: 80px;
+	color: white;
+	background: green;
+	width: 400px;
+	padding-left: 20px;
+}
+
+.main-contents-title {
+	font-size: 20px;
+	width: 400px;
+	height: 40px;
+	line-height: 40px;
+}
+
+.main-contents-contents {
+	font-size: 10px;
+	width: 400px;
+	height: 40px;
+	line-height: 40px;
+}
+#move{
+	height: 20px;
+	width : 40px;
+}
