@@ -6,9 +6,9 @@
 
 2. 프로젝트 정보
 
-   ![main](C:\eclipse_workspace\WebProgramming\ToDo\img\main.PNG)
+   ![main](./img/main.PNG)
 
-   ![todo](C:\eclipse_workspace\WebProgramming\ToDo\img\todo.PNG)
+   ![todo](./img/todo.PNG)
 
    
 
