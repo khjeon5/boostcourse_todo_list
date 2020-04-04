@@ -1,37 +1,35 @@
 #nav {
 	display: flex;
-	height: 100px;
+	height: 150px;
 }
 
 .title {
-	color: green;
+	color: #cee5ef;
 	font-weight: bold;
-	font-size: 20px;
-	width: 200px;
-	height: 100px;
-	margin: 50px;
-	font-size: 20px;
-	width: 200px;
+	font-size: 35px;
+	width: 400px;
 	height: 100px;
 	margin: 50px;
 	transform: rotate(-35deg)
 }
 
 .addtodo {
+	font-weight:bold;
+	font-size:15px;
 	margin: 50px;
-	margin-left: 940px;
+	margin-left: 790px;
 	width: 200px;
 	height: 50px;
 	line-height: 50px;
 	background: #03A9F4;
 	color: white;
 	text-align: center;
-	width: 200px;
+
 }
 
 #section {
 	display: flex;
-	justify-content: center;
+	margin-left: 180px;
 }
 
 .main-title {
@@ -49,27 +47,39 @@
 
 .main-contents {
 	margin: 10px;
-	height: 80px;
-	color: white;
-	background: green;
+	height: 60px;
+	background: #cee5ef;
 	width: 400px;
 	padding-left: 20px;
+	padding-top:10px;
+	padding-bottom:10px;
+	
 }
 
 .main-contents-title {
-	font-size: 20px;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
 	width: 400px;
-	height: 40px;
-	line-height: 40px;
+	height: 30px;
+	line-height: 30px;
 }
 
 .main-contents-contents {
-	font-size: 10px;
-	width: 400px;
-	height: 40px;
-	line-height: 40px;
+	color: black;
+	float: left;
+	font-size: 15px;
+	height: 30px;
+	line-height: 30px;
 }
-#move{
-	height: 20px;
-	width : 40px;
-}
+
+input[type=button] { 
+	float:right;
+	margin-right:30px;
+	margin-top: 5px;
+	}
+	
+	
+	
+	
+	

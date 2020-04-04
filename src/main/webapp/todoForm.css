@@ -1,0 +1,64 @@
+h1 {
+	text-align: center;
+}
+
+#wrap {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.text {
+	font-size: 15px;
+	color: grey;
+	font-weight: bold;
+	margin-top: 20px;
+}
+input[type="text"]{
+	font-size:15px;
+	font-weight:bold;
+}
+#title {
+	width: 500px;
+	height: 30px;
+}
+
+#name {
+	width: 200px;
+	height: 30px;
+}
+label{
+	margin-right:20px;
+}
+input[type="radio"]{
+	background-color:white;
+	margin:0 0;
+}
+
+.button{
+	margin-top:50px;
+}
+
+input[type="button"] {
+    background-color: white;
+    width: 120px;
+    height: 40px;
+    font-weight:bold;
+    text-decoration: underline;
+}
+input[type="submit"] {
+	margin-left:130px;
+    background-color: #03A9F4;
+    width: 120px;
+    height: 40px;
+    color:white;
+    font-weight:bold;
+}
+
+input[type="reset"]{
+    background-color: #03A9F4;
+    width: 120px;
+    height: 40px;
+    color:white;
+    font-weight:bold;
+}
